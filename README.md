@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/000/409/845/original/vector-illustration-of-data-analysis-graph.jpg" alt="data analisy"  >
+  <img src="https://static.vecteezy.com/system/resources/previews/000/409/845/original/vector-illustration-of-data-analysis-graph.jpg" alt="data analisy"  width="400" height="200">
 </p>
 
 
