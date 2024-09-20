@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/000/409/845/original/vector-illustration-of-data-analysis-graph.jpg" alt="data analisy"  width="400" height="200">
-</p>
-
 
 <h1 align="center">Hi 👋, I'm Nasrul Alfin Prassetyo</h1>
 <h3 align="center">I am a junior data scientist from Indonesia, currently studying at the Sumatra Institute of Technology.</h3>
